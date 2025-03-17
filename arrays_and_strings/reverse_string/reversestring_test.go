@@ -1,4 +1,4 @@
-package arrays_and_strings
+package reverse_string
 
 import (
 	"reflect"

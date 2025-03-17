@@ -1,4 +1,4 @@
-package arrays_and_strings
+package reverse_string
 
 func ReverseString(s []byte) []byte {
 	left, right := 0, len(s)-1
