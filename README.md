@@ -19,3 +19,6 @@ Topics covered:
 - Backtracking
 - Dynamic Programming
 
+
+**Disclaimer:**  
+The original problems are the intellectual property of [LeetCode](https://leetcode.com). This repository contains only original solutions to those problems for educational purposes.
