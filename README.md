@@ -4,7 +4,7 @@ This repository contains solutions to questions from the official LeetCode DSA c
 
 ## Structure
 
-Each primary directory represents a key topic from the course, and within each topic directory are individual subdirectories containing thier links to the problem, solutions along with unit tests.
+Each primary directory represents a key topic from the course, and within each topic directory are individual subdirectories containing links to the problem, solutions, along with unit tests.
 
 Topics covered:
 
