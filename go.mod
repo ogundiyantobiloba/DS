@@ -1,4 +1,4 @@
-module github.com/ogundiyantobiloba/DS
+module github.com/t0gun/DS
 
 
 go 1.24
